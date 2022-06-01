@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Javed
 - 👀 I’m interested in React & Blockchain
-- 🌱 I’m currently Solana
-- 💞️ I’m looking to collaborate on Solana
+- 🌱 I’m currently learning Solana
+- 💞️ I’m looking to collaborate on open source projects in Blockchain
 - 📫 How to reach me javed.ahmed@techilab.com
 
 <!---
